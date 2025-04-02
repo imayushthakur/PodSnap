@@ -69,7 +69,9 @@ Getty Images
 2️⃣ Installation
 
 Clone the repository and install dependencies:
+<br>
 git clone https://github.com/yourusername/podcast-reel-generator.git
+<br>
 cd podcast-reel-generator
 
 # Install dependencies
@@ -85,6 +87,7 @@ cp .env.example .env # Add your API keys here!
 3️⃣ Run the Application
 
 Generate a podcast reel in just one command:
+<br>
 python -m src.main --podcast examples/input/sample_podcast.mp3 --output examples/output/reel.mp4 --highlights 5 --duration 60
 
 <br>
