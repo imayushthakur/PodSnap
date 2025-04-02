@@ -72,15 +72,12 @@ Clone the repository and install dependencies:
 <br>
 git clone https://github.com/imayushthakur/podcast-reel-generator.git
 <br>
-cd podcast-reel-generator
+cd src
 
 # Install dependencies
 
 pip install -r requirements.txt
 
-# Set up environment variables
-
-cp .env.example .env # Add your API keys here!
 
 <br>
 
