@@ -2,7 +2,7 @@ Podcast Reel Generator 🎙️➡️🎥
 
 Transform your long-form podcasts into engaging, shareable short video reels with the power of AI! 🚀 This system automates the process of transcription, content summarization, image sourcing, and video creation to help you market your podcasts effectively on platforms like TikTok, Instagram Reels, and YouTube Shorts.
 
-
+<br>
 
 🌟 Key Features
 
@@ -16,7 +16,7 @@ AI-Based Image Selection: Use OpenAI CLIP to select the most contextually releva
 
 Professional Video Creation: Combine highlights, images, and audio clips into stunning short-form videos that captivate your audience.
 
-
+<br>
 
 🎯 Why Choose This System?
 
@@ -28,7 +28,7 @@ Scalable Solution: Perfect for podcasters, content creators, and digital marketi
 
 Freelancer-Friendly: Ideal for AI/ML freelancers who want to showcase expertise in cutting-edge AI tools.
 
-
+<br>
 
 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ OpenAI CLIP: For intelligent image selection
 
 MoviePy: For video creation
 
-
+<br>
 
 🚀 Getting Started
 
@@ -64,6 +64,7 @@ Google Custom Search Engine (CSE)
 
 Getty Images
 
+<br>
 
 2️⃣ Installation
 
@@ -79,6 +80,7 @@ pip install -r requirements.txt
 
 cp .env.example .env # Add your API keys here!
 
+<br>
 
 3️⃣ Run the Application
 
