@@ -36,43 +36,12 @@ OpenAI CLIP: For intelligent image selection
 
 MoviePy: For video creation
 
-Python 3.8+
 
-📂 Directory Structure
-podcast-reel-generator/
-├── README.md
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── setup.py
-├── src/
-│ ├── **init**.py
-│ ├── config.py
-│ ├── main.py
-│ ├── transcription/
-│ │ └── whisper_transcriber.py
-│ ├── analysis/
-│ │ └── gpt_analyzer.py
-│ ├── image_search/
-│ │ ├── query_generator.py
-│ │ ├── serp_fetcher.py
-│ │ └── getty_fetcher.py
-│ ├── image_selection/
-│ │ └── clip_selector.py
-│ ├── video_creation/
-│ │ └── reel_generator.py
-│ └── utils/
-│ └── helpers.py
-└── examples/
-├── input/
-│ └── sample_podcast.mp3
-└── output/
-├── transcript.txt
-├── highlights.json
-└── final_reel.mp4
 
 🚀 Getting Started
+
 1️⃣ Prerequisites
+
 Ensure you have the following installed:
 
 Python 3.8 or higher
@@ -88,6 +57,7 @@ Google Custom Search Engine (CSE)
 Getty Images
 
 2️⃣ Installation
+
 Clone the repository and install dependencies:
 git clone https://github.com/yourusername/podcast-reel-generator.git
 cd podcast-reel-generator
@@ -101,16 +71,20 @@ pip install -r requirements.txt
 cp .env.example .env # Add your API keys here!
 
 3️⃣ Run the Application
+
 Generate a podcast reel in just one command:
 python -m src.main --podcast examples/input/sample_podcast.mp3 --output examples/output/reel.mp4 --highlights 5 --duration 60
 
 🧾 Example Workflow
+
 Input:
+
 A podcast audio file (sample_podcast.mp3).
 
 Your API keys configured in .env.
 
 Output:
+
 A full transcript (transcript.txt).
 
 JSON file of extracted highlights (highlights.json).
@@ -118,16 +92,21 @@ JSON file of extracted highlights (highlights.json).
 A polished short-form video reel (final_reel.mp4).
 
 📊 Real-World Applications
+
 Podcast Marketing
+
 Create teaser clips to promote full episodes on social media.
 
 Content Repurposing
+
 Turn long-form podcasts into bite-sized content for wider reach.
 
 Freelance Services
+
 Offer this as a value-added service to clients looking to grow their podcast audience.
 
 Social Media Strategy
+
 Generate platform-specific content for TikTok, Instagram Reels, and YouTube Shorts.
 
 As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
@@ -136,9 +115,12 @@ As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
 ✅ Build custom AI solutions tailored to your business needs
 ✅ Create scalable systems that save time and boost engagement
 
+
 💡 Let's collaborate! Reach out via email or LinkedIn to discuss how I can help bring your ideas to life.
+
 
 📬 Contact Me
 📧 Email: thehaurusai@gmail.com
+
 
 Built with ❤️ using cutting-edge AI technologies! Let’s create something amazing together! 🚀
