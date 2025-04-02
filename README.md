@@ -1,7 +1,9 @@
 Podcast Reel Generator 🎙️➡️🎥
+
 Transform your long-form podcasts into engaging, shareable short video reels with the power of AI! 🚀 This system automates the process of transcription, content summarization, image sourcing, and video creation to help you market your podcasts effectively on platforms like TikTok, Instagram Reels, and YouTube Shorts.
 
 🌟 Key Features
+
 AI-Powered Transcription: Automatically transcribe podcasts using OpenAI Whisper for highly accurate results.
 
 Highlight Extraction: Extract the most engaging moments from your podcast using GPT-3 after advanced prompt engineering.
@@ -13,6 +15,7 @@ AI-Based Image Selection: Use OpenAI CLIP to select the most contextually releva
 Professional Video Creation: Combine highlights, images, and audio clips into stunning short-form videos that captivate your audience.
 
 🎯 Why Choose This System?
+
 Save Time: Automate hours of manual work in transcription, editing, and video creation.
 
 Boost Engagement: Create visually appealing reels that hook viewers and drive traffic to your full episodes.
@@ -22,6 +25,7 @@ Scalable Solution: Perfect for podcasters, content creators, and digital marketi
 Freelancer-Friendly: Ideal for AI/ML freelancers who want to showcase expertise in cutting-edge AI tools.
 
 🛠️ Tech Stack
+
 OpenAI Whisper: For transcription
 
 GPT-3 (DaVinci): For summarization and highlight generation
