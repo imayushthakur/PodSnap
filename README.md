@@ -134,7 +134,7 @@ As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
 
 
 
-💡 Let's collaborate! Reach out via email or LinkedIn to discuss how I can help bring your ideas to life.
+💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
 
 
 📬 Contact Me
