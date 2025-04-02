@@ -1,4 +1,4 @@
-Podcast Reel Generator 🎙️➡️🎥
+<h1>Podcast Reel Generator 🎙️➡️🎥</h1>
 
 Transform your long-form podcasts into engaging, shareable short video reels with the power of AI! 🚀 This system automates the process of transcription, content summarization, image sourcing, and video creation to help you market your podcasts effectively on platforms like TikTok, Instagram Reels, and YouTube Shorts.
 
