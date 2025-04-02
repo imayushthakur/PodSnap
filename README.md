@@ -72,7 +72,7 @@ Clone the repository and install dependencies:
 <br>
 git clone https://github.com/imayushthakur/podcast-reel-generator.git
 <br>
-cd src
+
 
 # Install dependencies
 
