@@ -1,0 +1,8 @@
+openai==0.27.8       # OpenAI Whisper & GPT integration
+torch==2.0.1         # PyTorch for Whisper & CLIP models
+whisper==1.0         # OpenAI Whisper library for transcription
+google-api-python-client==2.92.0  # Google SERP API integration
+requests==2.31.0     # HTTP requests for Getty Images API integration
+moviepy==1.0.3       # Video creation library for reels generation
+Pillow==9.5.0        # Image processing library for CLIP selection
+python-dotenv==1.0.0 # Environment variable management (.env)
