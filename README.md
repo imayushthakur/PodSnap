@@ -96,18 +96,13 @@ python -m src.main --podcast examples/input/sample_podcast.mp3 --output examples
 
 <br>
 Input:
-
 A podcast audio file (sample_podcast.mp3).
-
 Your API keys configured in .env.
 
-<br>
+<br><br>
 Output:
-
 A full transcript (transcript.txt).
-
 JSON file of extracted highlights (highlights.json).
-
 A polished short-form video reel (final_reel.mp4).
 
 
@@ -124,12 +119,14 @@ Freelance Services : Offer this as a value-added service to clients looking to g
 
 Social Media Strategy : Generate platform-specific content for TikTok, Instagram Reels, and YouTube Shorts.
 
-<br>
+<br><br>
 
 As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
 
 ✅ Automate tedious tasks like transcription and editing
+<br>
 ✅ Build custom AI solutions tailored to your business needs
+<br>
 ✅ Create scalable systems that save time and boost engagement
 
 
