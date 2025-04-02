@@ -87,18 +87,18 @@ cp .env.example .env # Add your API keys here!
 Generate a podcast reel in just one command:
 python -m src.main --podcast examples/input/sample_podcast.mp3 --output examples/output/reel.mp4 --highlights 5 --duration 60
 
-
+<br>
 
 🧾 Example Workflow
 
-
+<br>
 Input:
 
 A podcast audio file (sample_podcast.mp3).
 
 Your API keys configured in .env.
 
-
+<br>
 Output:
 
 A full transcript (transcript.txt).
@@ -108,6 +108,7 @@ JSON file of extracted highlights (highlights.json).
 A polished short-form video reel (final_reel.mp4).
 
 
+<br><br>
 
 
 📊 Real-World Applications
@@ -120,7 +121,7 @@ Freelance Services : Offer this as a value-added service to clients looking to g
 
 Social Media Strategy : Generate platform-specific content for TikTok, Instagram Reels, and YouTube Shorts.
 
-
+<br>
 
 As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
 
