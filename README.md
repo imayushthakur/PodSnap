@@ -97,12 +97,15 @@ python -m src.main --podcast examples/input/sample_podcast.mp3 --output examples
 <br>
 Input:
 A podcast audio file (sample_podcast.mp3).
+<br>
 Your API keys configured in .env.
 
 <br><br>
 Output:
 A full transcript (transcript.txt).
+<br>
 JSON file of extracted highlights (highlights.json).
+<br>
 A polished short-form video reel (final_reel.mp4).
 
 
